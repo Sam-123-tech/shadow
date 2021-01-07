@@ -1,0 +1,23 @@
+ p{
+color: fuchsia;
+ border: 5px solid forestgreen; 
+ background-color: firebrick;
+ padding: 50px;
+ margin: 50px;
+}
+ #firstpara{color:darkcyan;
+            background-color :plum;
+            font-family: 'Big Shoulders Inline Text', cursive;
+            font-size: 20px;
+            line-height: 10em;
+            font-weight:200;
+            font-style: italic; 
+         border: 5px solid rebeccapurple;
+         padding: 50px;
+         margin: 50px;
+         }           
+.firstclass{
+color:crimson;
+border: 3px solid cornflowerblue;
+background-color: hotpink;
+}       
